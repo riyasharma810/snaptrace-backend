@@ -1,1 +1,1 @@
-﻿flaskflask-corstensorflow
+﻿flaskflask-corstensorflow-cpu
